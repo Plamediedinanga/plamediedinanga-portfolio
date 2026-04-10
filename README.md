@@ -1,7 +1,7 @@
 # plamediedinanga-portfolio
 
 ## CV
-
+![CV Preview](cv-screenshort.png)
 # PLAMEDIE DINANGA 
 
 Address: 23 Joubert Street, Goodwood  
