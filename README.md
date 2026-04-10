@@ -90,3 +90,62 @@ I needed to record a professional, concise mock interview video and embed it usi
 
 ## Result
 Completing this assignment gave me valuable experience in handling the pressure of a real interview. I significantly improved my on-camera communication skills and now feel much more confident presenting technical work both verbally and digitally.
+
+
+
+
+# Reflection on Using GitHub Pages
+
+## Situation
+As part of the PRP370S Project Presentation 3 assessment, I was required to create and deploy a professional digital portfolio using GitHub. While I had successfully created my CV in Markdown and recorded my mock interview video, I needed to make my portfolio publicly accessible online using GitHub Pages. This was my first experience deploying a website using GitHub's hosting service, and I needed to ensure that all my artefacts (CV, video, and reflections) would be properly displayed and accessible to potential employers and assessors.
+
+## Task
+My objectives were to:
+- Configure GitHub Pages settings correctly in my repository to enable static site hosting
+- Ensure all files (`README.md`, `CV.md`, interview video, and reflections) would load properly on the live site
+- Publish a public, accessible URL for my portfolio at:  
+  `https://plamediedinanga.github.io/plamediedinanga-portfolio/`
+
+## Action
+
+### File Preparation
+- Verified that my main file was named `README.md` (required for GitHub Pages homepage)
+
+### GitHub Pages Configuration
+1. Navigated to my repository on GitHub
+2. Clicked on the Settings tab in the repository navigation
+3. Scrolled down to the Pages section in the left sidebar
+4. Under Build and deployment → Source, selected Deploy from a branch
+5. Selected `main` branch and `/root` folder as the publishing source
+6. Clicked **Save** to apply the settings
+
+### Deployment Monitoring
+- Waited for GitHub to build and deploy the site (approximately 2–3 minutes)
+- Monitored the deployment status in the Pages section
+- Checked for any error messages or build failures
+- Once deployment completed, noted the live URL provided by GitHub
+
+### Testing and Quality Assurance
+- Opened the live URL: `https://plamediedinanga.github.io/plamediedinanga-portfolio/`
+- Tested on Chrome browser
+- Confirmed that my CV page loaded properly with correct Markdown formatting
+- Verified that the mock interview video embedded correctly and played without issues
+
+## Result
+My portfolio is now successfully deployed and publicly accessible at:  
+https://plamediedinanga.github.io/plamediedinanga-portfolio/
+
+### Technical Skills Gained
+- Learned how to configure and deploy static websites using GitHub Pages
+- Understood the importance of proper file structure and naming conventions (`README.md`, relative paths, etc.)
+
+### Professional Development
+- Created a professional digital presence that showcases my work readiness to potential employers
+- Demonstrated my ability to use industry-standard tools: Git, GitHub, and Markdown
+
+### Portfolio Outcomes
+- All artefacts (CV, mock interview video, and STAR reflections) are properly displayed and accessible
+- The site loads quickly and functions correctly across devices
+
+### Lessons Learned
+> This experience has equipped me with valuable skills that I can apply to future software development projects. I now feel confident in my ability to deploy and maintain web-based portfolios and documentation using GitHub Pages. The successful deployment of my portfolio demonstrates my work readiness and technical competence as I prepare to enter the ICT industry.
