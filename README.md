@@ -1,5 +1,5 @@
 # plamediedinanga-portfolio
-# PLAMEDIE DINANGA ★
+# PLAMEDIE DINANGA 
 
 Address: 23 Joubert Street, Goodwood  
 Phone: 074 386 4743  
@@ -49,3 +49,19 @@ ICT student specializing in Application Development at Cape Peninsula University
 ## References
 - Darren | DC Event | Phone: 072 417 6567
 - Getrude Buri | Takealot Seller | Phone: 076 855 8937 | Email: [getrudeburi1@gmail.com](mailto:getrudeburi1@gmail.com)
+
+# Reflection 1: CV Submission
+
+## Situation
+I was required to code my CV using GitHub Markdown. Having previously only used word processors for resumes, this was my first time structuring professional content entirely in plain-text markup.
+
+## Task
+My goal was to create a clean, well-formatted, and professional CV using only Markdown syntax—ensuring proper use of headers, lists, links, emphasis, and code blocks—while maintaining readability both in raw and rendered views.
+
+## Action
+- I started by reviewing GitHub's Markdown guide and practicing syntax in a test file.
+- I structured my CV with clear section headers, bullet-point lists for skills, and relative links for contact information.
+- I committed iteratively, previewing changes in GitHub's web editor to catch formatting errors early.
+
+## Result
+My Markdown CV rendered perfectly on GitHub, with clean formatting and intuitive navigation. I gained confidence in writing maintainable, version-controlled documentation—a skill directly transferable to collaborative software projects. This experience deepened my appreciation for lightweight markup languages in developer workflows.
