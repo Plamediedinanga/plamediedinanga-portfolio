@@ -70,3 +70,20 @@ My Markdown CV rendered perfectly on GitHub, with clean formatting and intuitive
 ## 🎥 Mock Interview
 
 [Watch my interview video](https://drive.google.com/file/d/1MC4up_7h3XQiveoT376oMqSz0YZrx2JQ/view?usp=drive_link)
+
+
+# Reflection: Mock Interview Video
+
+## Situation
+The assignment required me to create a mock interview video. It provided a valuable opportunity to practice and refine my interview skills in a realistic, structured setting.
+
+## Task
+I needed to record a professional, concise mock interview video and embed it using Markdown. The goal was to respond to common interview questions while demonstrating clear communication, confidence, and an understanding of how to effectively present my skills and experiences.
+
+## Action
+- I scripted key responses using the **STAR framework** to keep my answers focused and well-structured.
+- I recorded multiple takes in a quiet, well-lit space, reviewing each for clarity, pacing, and body language.
+- I edited the final clip to remove unnecessary pauses and added subtitles to improve accessibility.
+
+## Result
+Completing this assignment gave me valuable experience in handling the pressure of a real interview. I significantly improved my on-camera communication skills and now feel much more confident presenting technical work both verbally and digitally.
