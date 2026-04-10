@@ -65,3 +65,8 @@ My goal was to create a clean, well-formatted, and professional CV using only Ma
 
 ## Result
 My Markdown CV rendered perfectly on GitHub, with clean formatting and intuitive navigation. I gained confidence in writing maintainable, version-controlled documentation—a skill directly transferable to collaborative software projects. This experience deepened my appreciation for lightweight markup languages in developer workflows.
+
+
+## 🎥 Mock Interview
+
+[Watch my interview video](https://drive.google.com/file/d/1MC4up_7h3XQiveoT376oMqSz0YZrx2JQ/view?usp=drive_link)
