@@ -50,7 +50,7 @@ ICT student specializing in Application Development at Cape Peninsula University
 - Darren | DC Event | Phone: 072 417 6567
 - Getrude Buri | Takealot Seller | Phone: 076 855 8937 | Email: [getrudeburi1@gmail.com](mailto:getrudeburi1@gmail.com)
 
-# Reflection 1: CV Submission
+# Reflection : CV Submission
 
 ## Situation
 I was required to code my CV using GitHub Markdown. Having previously only used word processors for resumes, this was my first time structuring professional content entirely in plain-text markup.
