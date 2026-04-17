@@ -1,7 +1,10 @@
 # plamediedinanga-portfolio
 
 ## CV
-![CV Screenshot](images/cv-screenshort.png)
+
+## My CV Preview
+
+![My CV Screenshot](images/cv-screenshort.png)
 
 # PLAMEDIE DINANGA 
 
