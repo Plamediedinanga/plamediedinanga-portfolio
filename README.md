@@ -1,6 +1,7 @@
 # plamediedinanga-portfolio
 
 ## CV
+cv-screenshort.png
 
 # PLAMEDIE DINANGA 
 
