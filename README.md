@@ -1,7 +1,7 @@
 # plamediedinanga-portfolio
 
 ## CV
-cv-screenshort.png
+![CV Screenshot](images/cv-screenshort.png)
 
 # PLAMEDIE DINANGA 
 
