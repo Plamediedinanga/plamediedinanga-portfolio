@@ -2,7 +2,7 @@
 
 ## CV
 
-![CV Screenshot](images/cv-screenshort.png)
+![Image](images/cv-screenshort.png)
 
 # PLAMEDIE DINANGA 
 
