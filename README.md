@@ -105,7 +105,7 @@ Quality assurance and application testing also connect to the software developme
 
 The Agile artefacts in this portfolio allow me to apply another part of my academic learning: organising development work into requirements, tasks, priorities, and review activities.
 
-## 2.5 Reflection on the Placement Overview and Learning Goals — STAR
+## 2.5 Reflection on the Placement Overview and Learning Goals 
 
 **Situation:** My placement records covered different website-related activity areas during August and September.
 
