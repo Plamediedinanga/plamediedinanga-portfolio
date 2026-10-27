@@ -46,9 +46,19 @@ The portfolio follows four main e-portfolio principles:
 
 Overall, this portfolio shows my understanding of the relationship between practical website-related work, structured planning, and continuous learning.
 
-## 1.1 Reflection on the Introduction
+## 1.1 Reflection on the Introduction 
 
-Putting this portfolio together helped me understand that an internship is not only about the activities covered during the placement, but also about being able to explain what I have learned from them. By connecting my placement activity areas to concepts from my IT studies, I can better understand how the knowledge I gain at CPUT relates to practical work. This portfolio also gives me an opportunity to reflect on the areas where I still want to improve.
+**Situation:** I needed to organise my internship learning into a digital portfolio that connected my placement activities with my IT studies.
+
+**Task:** My task was to present the activity areas documented during my placement and explain what I learned from them.
+
+**Action:** I organised the portfolio into sections covering my placement context, website-related activities, Agile concepts, evidence, and personal reflections.
+
+**Result:** The portfolio provides a structured account of my learning and shows how the documented activity areas connect with concepts from my studies.
+
+**Reflection and learning:** This process helped me understand that an internship is not only about the activities covered during placement. It is also about being able to explain what I learned and how I can improve. I now see the value of documenting my experiences and connecting them to my academic knowledge.
+
+---
 
 # 2. Placement Overview and Learning Goals
 
@@ -74,8 +84,6 @@ The purpose of this portfolio is to:
 
 ## 2.3 Learning Goals
 
-My learning goals for this portfolio are presented below.
-
 | Learning goal | Explanation |
 |---|---|
 | Understand website maintenance | Develop a clearer understanding of why websites require ongoing maintenance and review. |
@@ -95,9 +103,19 @@ Quality assurance and application testing also connect to the software developme
 
 The Agile artefacts in this portfolio allow me to apply another part of my academic learning: organising development work into requirements, tasks, priorities, and review activities.
 
-## 2.5 Reflection on the Placement Overview and Learning Goals
+## 2.5 Reflection on the Placement Overview and Learning Goals — STAR
 
-Reflecting on the placement context helped me identify the different areas of website development and maintenance represented in my records. Before organising the information, these activity areas could appear to be separate tasks. However, I now understand that they are connected because they all contribute to how a website is developed, presented, maintained, and reviewed. My learning goals also helped me identify the technical and professional skills I want to continue developing.
+**Situation:** My placement records covered different website-related activity areas during August and September.
+
+**Task:** I needed to understand how these activities connected to my learning goals rather than treating them as unrelated tasks.
+
+**Action:** I grouped the activity areas into themes, including website maintenance, frontend development, HTML coding, visual assets, and quality assurance. I then connected these themes to concepts from my IT studies.
+
+**Result:** I developed a clearer understanding of how the different activity areas contribute to the development, presentation, maintenance, and review of a website.
+
+**Reflection and learning:** I have learned that website development involves several connected activities. For example, creating a page is only one part of the process; maintaining it and checking its quality are also important. In future projects, I want to connect my tasks more clearly to their purpose and document what I learn from each activity.
+
+---
 
 # 3. Agile Team Charter
 
@@ -137,15 +155,19 @@ The Definition of Done describes the conditions that should be met before a task
 
 The exact checks would depend on the task. For example, a website content change may require a different review from a change to frontend code.
 
-## 3.4 Reflection on the Agile Team Charter
+## 3.4 Reflection on the Agile Team Charter 
 
-Developing the Team Charter helped me understand that successful development work involves more than completing individual tasks. Clear expectations and communication help people understand what needs to be done, while quality criteria provide a consistent way of reviewing the result.
+**Situation:** I needed to demonstrate my understanding of Agile working practices and how they could relate to website development and maintenance.
 
-The Definition of Done also helped me think about the difference between completing an activity and confirming that the result meets the expected standard.
+**Task:** My task was to develop a Team Charter that explained how work could be organised and what standards could be used to review completed tasks.
 
-This demonstrates an evolution in my learning because I now view task completion not just as finishing the work, but as ensuring it meets a predefined standard of quality. It has helped me understand why clear expectations and review criteria are important when organising and completing work.
+**Action:** I created a retrospective charter covering the team's purpose, communication, task organisation, responsibility, and quality expectations. I also developed a Definition of Done to show how tasks could be reviewed against clear criteria.
 
-In future projects, I can use these principles to clarify requirements before starting, keep better records of progress, and review my work more systematically.
+**Result:** The charter provided a structured example of how expectations and quality standards could be established before work begins.
+
+**Reflection and learning:** This helped me understand that completing a task does not automatically mean that the result meets the required standard. Work should be reviewed against its purpose and requirements. In future projects, I can apply this understanding by clarifying expectations before starting and checking my work more systematically.
+
+---
 
 # 4. User Stories and Tasks
 
@@ -183,11 +205,17 @@ As a website visitor, I want website information to be maintained and presented 
 - The relevant page content is reviewed after the change.
 - Any known outstanding issues are recorded.
 
-**Reflection**
+### Reflection on User Story 1 
 
-This user story connects to the website maintenance activity area documented in my placement records. It helped me consider maintenance from the visitor's perspective. A website needs to present information clearly, and ongoing maintenance can help keep its content and pages useful.
+**Situation:** Website maintenance is one of the activity areas documented in my placement records.
 
-Breaking the activity into smaller tasks also demonstrates how a general requirement can be organised into manageable steps.
+**Task:** I needed to demonstrate how a general maintenance activity could be expressed as a user need and broken into smaller tasks.
+
+**Action:** I created a proposed user story focused on website visitors and listed tasks covering the identification, review, and checking of a maintenance requirement.
+
+**Result:** The example shows how maintenance can be organised around a clear purpose rather than treated as an isolated technical activity.
+
+**Reflection and learning:** I learned to consider maintenance from the visitor's perspective. In future projects, I would clarify the purpose of a maintenance task before starting and use clear acceptance criteria to help review the result.
 
 ## 4.3 User Story 2: Image and Asset Integration
 
@@ -211,11 +239,17 @@ As a website visitor, I want images and visual assets to be displayed appropriat
 - The page is reviewed for missing or incorrectly displayed images.
 - Any identified issues are recorded for correction.
 
-**Reflection**
+### Reflection on User Story 2 
 
-The image and asset integration activity area helped me consider the role of visual elements in website development. Images are not only decorative; they can also help communicate information and support the overall presentation of a page.
+**Situation:** Image and asset integration is one of the activity areas recorded during my placement.
 
-The proposed tasks demonstrate how an asset-related requirement can be broken into smaller steps, from identifying the required assets to reviewing how they appear on the page.
+**Task:** I needed to demonstrate how an asset-related activity could be organised around the needs of a website visitor.
+
+**Action:** I created a proposed user story and broke the work into tasks covering asset identification, placement, integration, and review.
+
+**Result:** The example shows how visual asset work can be planned and checked against the intended page presentation.
+
+**Reflection and learning:** I learned that images are not only decorative elements; they can also support the communication and presentation of information. In future projects, I would check that assets are suitable for their purpose and review how they appear within the page.
 
 ## 4.4 User Story 3: User Interface Presentation
 
@@ -239,11 +273,17 @@ As a website visitor, I want page elements to be organised clearly so that I can
 - The page is reviewed for presentation issues.
 - Any identified issues are documented.
 
-**Reflection**
+### Reflection on User Story 3 
 
-The user interface implementation and frontend activity areas connect to the way users experience a website. A page can contain the correct information but still be difficult to use if the content and interface elements are not organised clearly.
+**Situation:** User interface implementation and frontend development are activity areas covered by my placement records.
 
-This user story helped me understand why interface work should be considered from the user's perspective and reviewed against a clear purpose.
+**Task:** I needed to show how interface work could be described in terms of the experience it provides to a website visitor.
+
+**Action:** I developed a proposed user story and identified tasks for understanding the interface requirements, planning changes, and reviewing the page presentation.
+
+**Result:** The example demonstrates how interface work can be linked to a user's needs and reviewed against defined requirements.
+
+**Reflection and learning:** I learned that a page can contain the correct information but still be difficult to use if its elements are not organised clearly. In future work, I would consider the intended user experience when reviewing interface requirements.
 
 ## 4.5 User Story 4: Website Quality Assurance
 
@@ -267,21 +307,31 @@ As a website user, I want relevant pages and features to be checked so that prob
 - Identified issues are documented.
 - Any required corrections are reviewed against the original requirements.
 
-**Reflection**
+### Reflection on User Story 4 
 
-Website quality assurance and application testing and debugging are important activity areas because development work needs to be reviewed, not simply completed.
+**Situation:** Website quality assurance and application testing and debugging are activity areas documented in my placement records.
 
-This user story helped me distinguish between creating or changing a website page and checking whether it meets its requirements. It also shows how testing-related work can be organised into a repeatable process.
+**Task:** I needed to demonstrate how quality-related work could be expressed as a requirement with clear tasks and acceptance criteria.
 
-## 4.6 Overall Reflection on User Stories and Tasks
+**Action:** I created a proposed user story focused on checking website pages or features, recording issues, and reviewing corrections where applicable.
 
-Creating these user stories helped me connect website-related activities to the needs of people using a website. It also helped me understand how a broad activity can be divided into smaller tasks with clear acceptance criteria.
+**Result:** The example provides a structured way to consider how quality checks can support the identification and resolution of problems.
 
-For example, image integration can be considered in terms of what the visitor needs to see, while quality assurance can be considered in terms of whether the website behaves and appears as expected.
+**Reflection and learning:** I learned that creating or changing a page is different from checking whether it meets its requirements. In future projects, I would identify the checks needed for each task and document issues clearly so they can be followed up.
 
-This demonstrates an evolution in my learning, shifting my perspective from simply doing a task to understanding the underlying value that task provides to the end-user. I now recognise the importance of connecting requirements and acceptance criteria to the purpose of the work.
+## 4.6 Overall Reflection on User Stories and Tasks — STAR
 
-In future development projects, I can use user stories to explain the purpose of a requirement and use acceptance criteria to help determine whether the expected outcome has been achieved.
+**Situation:** My placement records contained broad website-related activity headings rather than detailed user requirements.
+
+**Task:** I needed to demonstrate how those activity areas could be translated into proposed user stories, tasks, and acceptance criteria.
+
+**Action:** I created four proposed user stories covering maintenance, asset integration, interface presentation, and quality assurance. I broke each story into smaller tasks and identified criteria that could be used to review the expected outcome.
+
+**Result:** The examples demonstrate how general activities can be organised around user needs and clearer expectations.
+
+**Reflection and learning:** This process helped me move from thinking only about the task itself to considering the reason for the task and the value it could provide to a user. In future projects, I can use user stories to explain requirements and acceptance criteria to help determine whether the intended outcome has been achieved.
+
+---
 
 # 5. Product Backlog
 
@@ -318,13 +368,19 @@ Medium-priority items focus on specific implementation and maintenance activitie
 
 In an actual project, the order would depend on factors such as stakeholder requirements, dependencies between tasks, available time, technical constraints, and the urgency of identified issues.
 
-## 5.4 Reflection on the Product Backlog
+## 5.4 Reflection on the Product Backlog 
 
-Developing the Product Backlog helped me understand that not all tasks need to be completed at the same time. Work can be organised according to its importance and relationship to other tasks.
+**Situation:** The website-related activity areas in my placement records cover several types of work that could be organised into a backlog.
 
-The backlog also helped me see how broad website development activities can be translated into individual items that are easier to discuss and plan.
+**Task:** I needed to demonstrate how these activities could be listed and prioritised in an organised way.
 
-I learned that prioritisation should be connected to the purpose of the work rather than being based only on which task seems easiest to complete. In future projects, I would aim to clarify requirements and dependencies before deciding the order in which work should be carried out.
+**Action:** I developed a proposed Product Backlog containing ten items, descriptions, suggested priorities, and reasons for those priorities.
+
+**Result:** The backlog provides an example of how website-related work can be made visible and arranged according to its purpose and potential importance.
+
+**Reflection and learning:** This helped me understand that not all tasks need to be approached at the same time. Prioritisation should consider requirements, dependencies, and value rather than simply choosing the easiest task. In future projects, I would clarify the requirements and discuss priorities before deciding the order of work.
+
+---
 
 # 6. Sprint Backlog
 
@@ -364,13 +420,19 @@ At the end of the proposed sprint, the work could be reviewed using the followin
 
 These questions would help determine whether the planned work met its goal and whether additional tasks should be added to the Product Backlog.
 
-## 6.5 Reflection on the Sprint Backlog
+## 6.5 Reflection on the Sprint Backlog 
 
-The Sprint Backlog helped me understand how a broad development goal can be divided into a series of smaller tasks. Each task contributes to the overall goal, but the individual tasks make the work easier to organise and review.
+**Situation:** I needed to demonstrate how a broad website-related goal could be organised into manageable pieces of work.
 
-I also learned that planning should include a way to check the outcome. Without clear review criteria, it can be difficult to determine whether a task has achieved its intended purpose.
+**Task:** My task was to create a proposed Sprint Backlog showing a sprint goal, individual tasks, expected outcomes, and completion checks.
 
-In future projects, I can use this approach to plan work more carefully, identify dependencies, and review progress against a defined goal.
+**Action:** I selected asset integration as the example goal and divided the proposed work into six tasks covering requirements, asset identification, placement planning, integration planning, review, and documentation.
+
+**Result:** The Sprint Backlog demonstrates how a larger goal can be divided into smaller steps and how each step can have an expected outcome.
+
+**Reflection and learning:** This helped me understand that planning is not only about listing tasks. It also involves identifying how progress and outcomes will be reviewed. In future projects, I would use a clear goal, organise tasks according to their dependencies, and check whether the planned outcome has been achieved.
+
+---
 
 # 7. Agile Logbook
 
@@ -386,31 +448,35 @@ The entries are organised by the month in which the activities were recorded. Sp
 
 | Month | Recorded activity area | Learning focus | Reflection |
 |---|---|---|---|
-| August 2026 | Website Maintenance | Understanding ongoing website maintenance | This activity area helped me consider why websites need to be reviewed and maintained over time. Maintenance is part of keeping a website useful and aligned with its requirements. |
-| August 2026 | Image/Asset Integration | Understanding the role of visual assets | This activity area connects to the selection, placement, and presentation of images and other assets on a website. |
-| August 2026 | UI Implementation | Understanding interface requirements | This activity area relates to translating interface requirements into a page presentation that users can understand. |
-| August 2026 | Frontend | Understanding website presentation and structure | Frontend development connects the structure and visual presentation of website pages to the user experience. |
-| August 2026 | Website Quality Assurance | Understanding the importance of quality checks | This activity area highlights the need to review a website against its requirements and identify issues that may need attention. |
+| August 2026 | Website Maintenance | Understanding ongoing website maintenance | This activity area helped me consider why websites need to be reviewed and maintained over time. |
+| August 2026 | Image/Asset Integration | Understanding the role of visual assets | This activity area connects to the selection, placement, and presentation of images and other assets. |
+| August 2026 | UI Implementation | Understanding interface requirements | This activity area relates to translating interface requirements into a clear page presentation. |
+| August 2026 | Frontend | Understanding website presentation and structure | Frontend development connects the structure and visual presentation of pages to the user experience. |
+| August 2026 | Website Quality Assurance | Understanding the importance of quality checks | This activity area highlights the need to review a website against its requirements. |
 
 ## 7.3 September 2026 Logbook
 
 | Month | Recorded activity area | Learning focus | Reflection |
 |---|---|---|---|
 | September 2026 | HTML Coding | Understanding webpage structure | HTML coding connects to the way website content is structured and presented by a browser. |
-| September 2026 | Frontend UI Development | Understanding interface development | This activity area relates to developing the elements that users see and interact with on a website. |
+| September 2026 | Frontend UI Development | Understanding interface development | This activity area relates to developing the elements users see and interact with. |
 | September 2026 | Web Page Development | Understanding the process of building pages | Web page development brings together page structure, content, and interface requirements. |
 | September 2026 | Frontend Code Maintenance | Understanding code maintenance | Maintaining frontend code is important when reviewing existing work and preparing for future changes. |
-| September 2026 | Application Testing and Debugging | Understanding testing and issue identification | Testing and debugging are associated with checking application behaviour, identifying problems, and supporting improvements. |
+| September 2026 | Application Testing and Debugging | Understanding testing and issue identification | Testing and debugging are associated with checking application behaviour and identifying problems. |
 
-## 7.4 Reflection on the Agile Logbook
+## 7.4 Reflection on the Agile Logbook 
 
-Organising the activity headings into a logbook helped me see the different areas of website development covered by my placement records.
+**Situation:** My placement records contained activity headings for August and September but did not include detailed daily entries for every activity.
 
-The August entries include maintenance, visual assets, interface implementation, frontend work, and quality assurance. The September entries include HTML coding, interface development, web page development, code maintenance, and application testing and debugging.
+**Task:** I needed to organise the available information into a logbook without adding unsupported dates, outcomes, or technical issues.
 
-Together, these activity areas demonstrate the connection between developing website pages and maintaining their quality. They also show why it is useful to consider implementation, maintenance, and review as related parts of website development.
+**Action:** I grouped the recorded activity areas by month and added a learning focus and reflection for each entry.
 
-The logbook format has helped me recognise the value of recording work in an organised way. In future projects, I would improve my records by including specific dates, task descriptions, intended outcomes, completed outputs, and any relevant issues or follow-up actions. This would make it easier to track progress and reflect on how my technical skills develop over time.
+**Result:** The logbook provides a structured overview of the documented activity areas and their connection to website development and maintenance.
+
+**Reflection and learning:** This process helped me understand the importance of recording work consistently. The available records allowed me to identify broad learning areas, but more detailed notes would make it easier to explain specific progress and outcomes. In future projects, I would record dates, tasks, outcomes, issues, and follow-up actions wherever possible.
+
+---
 
 # 8. Evidence of Learning
 
@@ -462,25 +528,37 @@ I intend to use these lessons in future projects by maintaining clearer records,
 
 All evidence and artefacts are presented according to their actual source and purpose. The Agile artefacts demonstrate my learning and application of concepts, while the placement records provide the documented context for my reflections.
 
-## 8.6 Reflection on Evidence of Learning
+## 8.6 Reflection on Evidence of Learning 
 
-Preparing the evidence section helped me understand the importance of supporting reflection with relevant records and clearly organised artefacts. The placement records provide the context for the activities I have discussed, while the Agile artefacts show how I can apply structured planning and reflection to those activity areas.
+**Situation:** I needed to demonstrate my learning using the placement records available to me and the Agile artefacts developed for this portfolio.
 
-I have also recognised that the way evidence is organised matters. When each item has a clear purpose, it becomes easier to explain what it demonstrates and how it connects to my learning. In future placements and projects, I want to keep more detailed records and preserve permitted examples of my work so that I can demonstrate my progress more clearly.
+**Task:** My task was to organise the evidence and explain what each item demonstrates without presenting retrospective artefacts as original workplace records.
 
-# 9. Overall Reflection
+**Action:** I separated the placement records from the proposed Agile artefacts, assigned evidence IDs, and explained how each item connects to my learning.
 
-Completing this portfolio has helped me look at my internship learning in a more organised way. The website-related activity areas documented in my records cover maintenance, frontend development, visual assets, interface implementation, HTML coding, web page development, and quality assurance.
+**Result:** The evidence section provides a clearer distinction between the documented placement context and the artefacts I created to demonstrate my understanding of Agile concepts.
 
-One of the main things I have taken from this process is that website development involves different activities that contribute to the same overall outcome. Building a page is one part of the process, but understanding its requirements, maintaining its code, reviewing its presentation, and considering its quality are also important.
+**Reflection and learning:** I learned that evidence is more useful when it has a clear purpose and is connected to a specific learning point. In future placements, I would keep more detailed records and preserve permitted examples of my work so that I can demonstrate my development more clearly.
 
-Developing the Agile artefacts has helped me connect these activities with the structured planning methods introduced through my IT studies. The Team Charter helped me consider working principles and quality expectations. The User Stories helped me think about requirements from the user's perspective. The Product Backlog showed me how work can be organised according to proposed priorities, while the Sprint Backlog helped me understand how a larger goal can be divided into smaller tasks. The Logbook provided a structure for reflecting on learning over time.
+---
 
-I have also learned that documentation is an important part of professional development. When activities and outcomes are recorded clearly, it becomes easier to understand what was planned, what was completed, and what still needs attention. Keeping more detailed records would also help me demonstrate my development more effectively in future projects.
+# 9. Overall Reflection 
 
-This portfolio demonstrates an evolution in my learning: I have progressed from viewing my internship as a series of separate activity areas to understanding how structured Agile planning, continuous review, and reflection can support professional software development. Developing these artefacts has helped me connect the topics in my IT studies with a more organised approach to understanding and planning website-related work.
+**Situation:** Completing this portfolio required me to look back at my internship learning and organise the different website-related activity areas documented in my records.
 
-Going forward, I want to continue developing my technical understanding while improving the way I plan, document, and review my work. I also want to become more confident in explaining not only what an activity involves, but why it matters and how it contributes to the quality of a system.
+**Task:** My task was to connect my placement context with the Agile concepts and professional skills introduced through my IT studies at CPUT.
+
+**Action:** I organised my records, reflected on the activity areas, and developed retrospective Agile artefacts, including a Team Charter, User Stories and Tasks, a Product Backlog, a Sprint Backlog, and an Agile Logbook.
+
+**Result:** The portfolio brings together my documented placement context and my application of Agile concepts. It also identifies areas where better documentation and more structured review could support my future development.
+
+**Reflection and learning:** One of the main things I have learned is that website development involves more than completing individual technical activities. Requirements, planning, implementation, maintenance, quality checks, and documentation all contribute to the wider development process.
+
+The Team Charter helped me consider clear expectations and quality standards. User Stories helped me think about requirements from the user's perspective. The Product Backlog showed me how work can be prioritised, while the Sprint Backlog helped me understand how a goal can be broken into manageable tasks. The Logbook gave me a structure for organising and reflecting on activity areas over time.
+
+This process has helped me move from viewing the placement activity areas as separate topics to understanding how they can connect within a structured development process. Going forward, I want to improve my technical understanding, keep better records, and become more confident in explaining why a task matters and how its outcome should be reviewed.
+
+---
 
 # 10. Conclusion
 
@@ -494,8 +572,14 @@ Overall, creating this portfolio has helped me recognise the relationship betwee
 
 I intend to build on this learning by continuing to develop my technical skills, documenting my work more consistently, and applying structured approaches to future software and website development tasks.
 
-## 10.1 Reflection on the Conclusion
+## 10.1 Reflection on the Conclusion 
 
-Completing this portfolio has given me an opportunity to bring together the learning connected to my placement and the concepts I have studied at CPUT. It has helped me recognise the importance of planning, task organisation, quality review, and reflection in website-related work.
+**Situation:** At the end of the portfolio, I needed to bring together the main lessons from my placement context and the process of documenting my learning.
 
-I also understand that learning continues beyond the completion of a portfolio. I want to apply what I have learned to future projects by documenting my work more consistently, asking questions when requirements are unclear, and reviewing my work against its intended purpose. These are areas I can continue improving as I develop my skills in Information Technology.
+**Task:** My task was to identify what I learned and how I could use that learning in future studies and practical projects.
+
+**Action:** I reviewed the portfolio sections and considered the connections between website-related activities, Agile planning, quality review, evidence, and reflection.
+
+**Result:** The portfolio presents an organised account of the documented activity areas and demonstrates how I have applied Agile concepts through retrospective learning artefacts.
+
+**Reflection and learning:** I have learned that professional development involves both technical knowledge and the ability to plan, document, review, and learn from work. I want to apply these lessons in future projects by clarifying requirements, recording my progress more consistently, and checking my work against its intended purpose. I understand that there is still more for me to learn, and I want to keep improving as I continue my studies and develop my skills in Information Technology.
