@@ -1,11 +1,10 @@
-# Internship Digital Portfolio
+# My Internship Portfolio
 
-**Student:** Plamedie Dinanga
+Welcome to my internship portfolio for my placement at Do It Yourself Shop.
 
-**Placement Organisation:** Do It Yourself Shop
+This portfolio shows the work I did, the skills I developed, and what I learned during my placement in August and September 2026. It also includes my reflections on my experience and my understanding of Agile project management.
 
-**Placement Period:** August–September 2026
+## View My Portfolio
 
-Welcome to my internship digital portfolio, which documents my learning and development during my placement.
+[Click here to view my Internship Portfolio](internship-portfolio/)
 
-[**View My Internship Portfolio**](./internship-portfolio/)
